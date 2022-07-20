@@ -1,0 +1,9 @@
+POST https://127.0.0.1:8000/journey
+Content-Type: application/json
+
+{
+  "id": 3,
+  "people": 4
+}
+
+###
