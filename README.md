@@ -1,4 +1,4 @@
-# Wallbox employees EV Pooling Service Challenge
+# EV Pooling Service Challenge
 
 Thank you for your interest in joining Wallbox engineering team. The next step in the process is for you 
 to complete the code challenge described below.
